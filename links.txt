@@ -1,2 +1,4 @@
-https://packagecontrol.io/channel_v3.json,1
-http://arxiv.org/pdf/1904.00607.pdf,1
+https://github.com/matplotlib/cheatsheets/raw/master/handout-tips.pdf,1
+https://github.com/matplotlib/cheatsheets/raw/master/handout-intermediate.pdf,1
+https://github.com/matplotlib/cheatsheets/raw/master/handout-beginner.pdf,1
+https://github.com/matplotlib/cheatsheets/raw/master/cheatsheets.pdf,1
