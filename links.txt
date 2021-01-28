@@ -15,3 +15,4 @@ https://gg.zqq.workers.dev/0:/TG@yylive.m3u,1
 http://fxztv.xyz/nzy.txt,1
 https://taozuiyins.github.io/list.txt,1
 https://raw.githubusercontent.com/islercn/BeiJing-Unicom-IPTV-List/master/iptv.m3u,1
+https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/IPTV-Unicom.m3u,1
