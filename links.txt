@@ -16,3 +16,4 @@ http://fxztv.xyz/nzy.txt,1
 https://taozuiyins.github.io/list.txt,1
 https://raw.githubusercontent.com/islercn/BeiJing-Unicom-IPTV-List/master/iptv_ChannelID.m3u,1
 https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/IPTV-Unicom.m3u,1
+http://app.xhzb.tw:5444/a5/box.txt,1
