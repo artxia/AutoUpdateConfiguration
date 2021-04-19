@@ -11,10 +11,10 @@ https://raw.githubusercontent.com/1771245847/1771245847.github.io/master/ks.txt,
 https://raw.githubusercontent.com/wudongdefeng/iptv-tools/gh-pages/all.txt,1
 https://raw.githubusercontent.com/YueChan/IPTV/master/HDTV.m3u,1
 https://gitee.com/dyanj311/iptv/raw/master/凤凰国外.m3u,1
-https://gg.zqq.workers.dev/0:/TG@yylive.m3u,1
+https://gg.zqq.workers.dev/0:/TG@yylive.m3u,0
 http://fxztv.xyz/nzy.txt,1
 https://taozuiyins.github.io/list.txt,1
 https://raw.githubusercontent.com/islercn/BeiJing-Unicom-IPTV-List/master/iptv_ChannelID.m3u,1
 https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/IPTV-Unicom.m3u,1
 http://app.xhzb.tw:5444/a5/box.txt /tvbox.txt,1
-https://raw.githubusercontent.com/Rhilip/pt-gen-cfworker/build/script.js,../files/cfworker/pt-gen-cfworker.js,1
+https://raw.githubusercontent.com/Rhilip/pt-gen-cfworker/build/script.js,/files/cfworker/pt-gen-cfworker.js,1
