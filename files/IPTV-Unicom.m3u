@@ -25,7 +25,8 @@ http://192.168.123.1:23234/rtp/239.3.1.189:8000
 # http://192.168.123.1:23234/rtp/239.3.1.121:8000
 #EXTINF:-1 tvg-name="北京纪实",BRTV冬奥纪实[高清][非官方]
 # http://hdtv.haust.edu.cn/hls/hls69a25.m3u8
-http://v.mp.haue.edu.cn/hls/btv11hd.m3u8
+# http://v.mp.haue.edu.cn/hls/btv11hd.m3u8
+http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s6/index.m3u8
 #EXTINF:-1 tvg-name="该频道节目单尚无",BTV国际频道
 http://192.168.123.1:23234/rtp/239.3.1.235:8000
 #EXTINF:-1 tvg-name="CCTV1",CCTV-1 综合[高清]
@@ -218,9 +219,9 @@ http://192.168.123.1:23234/rtp/239.3.1.96:8001
 http://192.168.123.1:23234/rtp/239.3.1.154:8001
 #EXTINF:-1 tvg-name="该频道节目单尚无",延庆电视台
 http://192.168.123.1:23234/rtp/239.3.1.187:8001
-#EXTINF:-1 tvg-name="该频道节目单尚无",CCTV-4 中文国际 欧洲[高清]
+#EXTINF:-1 tvg-name="CCTV4EUO",CCTV-4 中文国际 欧洲[高清]
 http://192.168.123.1:23234/rtp/239.3.1.213:4220
-#EXTINF:-1 tvg-name="该频道节目单尚无",CCTV-4 中文国际 美洲[高清]
+#EXTINF:-1 tvg-name="CCTV4AME",CCTV-4 中文国际 美洲[高清]
 http://192.168.123.1:23234/rtp/239.3.1.214:4220
 #EXTINF:-1 tvg-name="CGTN",CGTN 新闻[高清]
 http://192.168.123.1:23234/rtp/239.3.1.215:4220
