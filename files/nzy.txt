@@ -1,8 +1,8 @@
 <html>
 	<head>
 		<script>
-			var forwardingUrl = "/page/bouncy.php?&bpae=GbhOd60molx7j3N1PAv5hjfZckJmlH4Y0Te51T3oskfBPtofqDWoDx4ySIEVHBZCROt2Il1Vx%2BJcC7GF5HOeMPzJXfFew6XBiNI4xyalw%2BNzZnNUNHwUqaW5GtN0LXO%2FRJGVslMvSvdafjl2rQAkXVyCgELHz9HGWj9uX8ww0pvQT9v8OdOGaRSdZH%2BGtWBsbAU137hsp6bILAQS4rOUYdQUsoaNgFwZEiOy8FLP%2B24ZGlhpGyEgpt2DmZj0GUv4%2ByU98wd03cbBHGhSWTPeLrqtOiaf%2FfVqGhjgTvzhft0yndqfQ6fatvwdJ7Ju6ALTJEhIATpn9vegaB14L67xC9%2B7miKqrdachLCvtvyM7RwNql01BWxJvpv6CxfsopdncbTDZ7MgqJXUIkUjqKI%3D&redirectType=js";
-			var destinationUrl = "/page/bouncy.php?&bpae=GbhOd60molx7j3N1PAv5hjfZckJmlH4Y0Te51T3oskfBPtofqDWoDx4ySIEVHBZCROt2Il1Vx%2BJcC7GF5HOeMPzJXfFew6XBiNI4xyalw%2BNzZnNUNHwUqaW5GtN0LXO%2FRJGVslMvSvdafjl2rQAkXVyCgELHz9HGWj9uX8ww0pvQT9v8OdOGaRSdZH%2BGtWBsbAU137hsp6bILAQS4rOUYdQUsoaNgFwZEiOy8FLP%2B24ZGlhpGyEgpt2DmZj0GUv4%2ByU98wd03cbBHGhSWTPeLrqtOiaf%2FfVqGhjgTvzhft0yndqfQ6fatvwdJ7Ju6ALTJEhIATpn9vegaB14L67xC9%2B7miKqrdachLCvtvyM7RwNql01BWxJvpv6CxfsopdncbTDZ7MgqJXUIkUjqKI%3D&redirectType=meta";
+			var forwardingUrl = "/page/bouncy.php?&bpae=GbhOdycGokx7j2%2FtWlpcbzrGLjd9FJvgZZ3PNiNbM8T2Z8abEbtPFEXvcUghQdIfkJUW7GujaiQs6LRAr3%2FezmLCRipIepHTaJHsa0TZvMMrHOCKGDUhnHDn5T0MKWp2I%2Fndq4Nxqo0HSMjPFHJDr8fNxAmt1pQOV%2F4QPx%2FcERhjsd0ISPCxBngD%2BNUW63z4VdgQgR79wrxh%2Bgy4EKJif363seXT4A6OtsRuEkERd2tdQO7WdKJSv%2B5djXFRGv0mTqPexgwv7Hq8u40JpGVtpt%2FpQbedleKtLnp0kj55npEttah%2BaUDdPt6fMcwcL6NwL06sr97ABhStIrFl89A%2FymUZq5Sctmr%2FkNWaTcN364i76pdL8g2KxZgr%2BrFU%2F%2Fnk%2FtokNLGiXQgH9uMGqIM%3D&redirectType=js";
+			var destinationUrl = "/page/bouncy.php?&bpae=GbhOdycGokx7j2%2FtWlpcbzrGLjd9FJvgZZ3PNiNbM8T2Z8abEbtPFEXvcUghQdIfkJUW7GujaiQs6LRAr3%2FezmLCRipIepHTaJHsa0TZvMMrHOCKGDUhnHDn5T0MKWp2I%2Fndq4Nxqo0HSMjPFHJDr8fNxAmt1pQOV%2F4QPx%2FcERhjsd0ISPCxBngD%2BNUW63z4VdgQgR79wrxh%2Bgy4EKJif363seXT4A6OtsRuEkERd2tdQO7WdKJSv%2B5djXFRGv0mTqPexgwv7Hq8u40JpGVtpt%2FpQbedleKtLnp0kj55npEttah%2BaUDdPt6fMcwcL6NwL06sr97ABhStIrFl89A%2FymUZq5Sctmr%2FkNWaTcN364i76pdL8g2KxZgr%2BrFU%2F%2Fnk%2FtokNLGiXQgH9uMGqIM%3D&redirectType=meta";
 			var addDetection = true;
 			if (addDetection) {
 				var inIframe = window.self !== window.top;
@@ -13,7 +13,7 @@
 			window.location.replace(forwardingUrl);
 		</script>
 		<noscript>
-			<meta http-equiv="refresh" content="1;url=/page/bouncy.php?&bpae=GbhOd60molx7j3N1PAv5hjfZckJmlH4Y0Te51T3oskfBPtofqDWoDx4ySIEVHBZCROt2Il1Vx%2BJcC7GF5HOeMPzJXfFew6XBiNI4xyalw%2BNzZnNUNHwUqaW5GtN0LXO%2FRJGVslMvSvdafjl2rQAkXVyCgELHz9HGWj9uX8ww0pvQT9v8OdOGaRSdZH%2BGtWBsbAU137hsp6bILAQS4rOUYdQUsoaNgFwZEiOy8FLP%2B24ZGlhpGyEgpt2DmZj0GUv4%2ByU98wd03cbBHGhSWTPeLrqtOiaf%2FfVqGhjgTvzhft0yndqfQ6fatvwdJ7Ju6ALTJEhIATpn9vegaB14L67xC9%2B7miKqrdachLCvtvyM7RwNql01BWxJvpv6CxfsopdncbTDZ7MgqJXUIkUjqKI%3D&redirectType=meta" />
+			<meta http-equiv="refresh" content="1;url=/page/bouncy.php?&bpae=GbhOdycGokx7j2%2FtWlpcbzrGLjd9FJvgZZ3PNiNbM8T2Z8abEbtPFEXvcUghQdIfkJUW7GujaiQs6LRAr3%2FezmLCRipIepHTaJHsa0TZvMMrHOCKGDUhnHDn5T0MKWp2I%2Fndq4Nxqo0HSMjPFHJDr8fNxAmt1pQOV%2F4QPx%2FcERhjsd0ISPCxBngD%2BNUW63z4VdgQgR79wrxh%2Bgy4EKJif363seXT4A6OtsRuEkERd2tdQO7WdKJSv%2B5djXFRGv0mTqPexgwv7Hq8u40JpGVtpt%2FpQbedleKtLnp0kj55npEttah%2BaUDdPt6fMcwcL6NwL06sr97ABhStIrFl89A%2FymUZq5Sctmr%2FkNWaTcN364i76pdL8g2KxZgr%2BrFU%2F%2Fnk%2FtokNLGiXQgH9uMGqIM%3D&redirectType=meta" />
 		</noscript>
 	</head>
 </html>
