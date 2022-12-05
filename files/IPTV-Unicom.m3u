@@ -23,8 +23,8 @@ http://192.168.123.1:23234/rtp/239.3.1.189:8000
 # http://192.168.123.1:23234/rtp/239.3.1.120:8000
 # #EXTINF:-1 tvg-name="北京纪实",BRTV冬奥纪实[超清]
 # http://192.168.123.1:23234/rtp/239.3.1.121:8000
-#EXTINF:-1 tvg-name="该频道节目单尚无",BRTV体育休闲
-http://192.168.123.1:23234/rtp/239.3.1.230:8000
+#EXTINF:-1 tvg-name="该频道节目单尚无",BRTV体育休闲[超清]
+http://192.168.123.1:23234/rtp/239.3.1.243:8000
 #EXTINF:-1 tvg-name="该频道节目单尚无",BTV国际频道
 http://192.168.123.1:23234/rtp/239.3.1.235:8000
 #EXTINF:-1 tvg-name="CCTV1",CCTV-1 综合[高清]
@@ -63,12 +63,12 @@ http://192.168.123.1:23234/rtp/239.3.1.153:8136
 # http://192.168.123.1:23234/rtp/239.3.1.183:8001
 # #EXTINF:-1 tvg-name="CCTV16",CCTV-16 奥林匹克[高清]
 # http://192.168.123.1:23234/rtp/239.3.1.184:8001
-#EXTINF:-1 tvg-name="CCTV16",CCTV-16 奥林匹克[高清][非官方]
-http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
+# #EXTINF:-1 tvg-name="CCTV16",CCTV-16 奥林匹克[高清][非官方]
+# http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
 #EXTINF:-1 tvg-name="CCTV17",CCTV-17 农业农村[高清]
 http://192.168.123.1:23234/rtp/239.3.1.151:8144
 #EXTINF:-1 tvg-name="CCTV4K",CCTV 4K超高清[超清HDR][非官方]
-https://v.bjiptv.eu.org/4.php
+https://v.bjiptv.ga/4.php
 # http://192.168.123.1:88/4k.php?a=0219&b=603
 #EXTINF:-1 tvg-name="凤凰中文",凤凰卫视中文[高清][非官方]
 http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
