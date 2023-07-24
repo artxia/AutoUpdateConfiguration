@@ -1,14 +1,1 @@
-<!doctype html>
-<html data-adblockkey="MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBANDrp2lz7AOmADaN8tA50LsWcjLFyQFcb/P2Txc58oYOeILb3vBw7J6f4pamkAQVSQuqYsKx3YzdUHCvbVZvFUsCAwEAAQ==_vJcMLvPahC5AppcsVbFetXd4/HePofa6oMWj3IBUiXNvJM4pF/jeNAw8yAiId1hejlHwqC9scqFi5MP2eiA+IA==" lang="en">
-<head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="icon" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAADElEQVQI12P4//8/AAX+Av7czFnnAAAAAElFTkSuQmCC">
-    <link rel="preconnect" href="https://www.google.com" crossorigin>
-</head>
-<body>
-<div id="target" style="opacity: 0"></div>
-<script>window.park = "eyJ1dWlkIjoiOWI4MmY2OTAtNjg5NC00YmViLWI5NjMtOTZmZGZiZTAwZjcwIiwicGFnZV90aW1lIjoxNjg5NTk2MjQwLCJwYWdlX3VybCI6Imh0dHA6Ly93dzEuZnh6dHYueHl6LyIsInBhZ2VfbWV0aG9kIjoiR0VUIiwicGFnZV9yZXF1ZXN0Ijp7fSwicGFnZV9oZWFkZXJzIjp7InJlZmVyZXIiOlsiIl19LCJob3N0Ijoid3cxLmZ4enR2Lnh5eiIsImlwIjoiMTA0LjIxMC4xNDAuMTQ4In0K";</script>
-<script src="/js/parking.2.106.5.js"></script>
-</body>
-</html>
+<html><head><title>Loading...</title></head><body><script type='text/javascript'>window.location.replace('http://fxztv.xyz/nzy.txt?ch=1&js=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJKb2tlbiIsImV4cCI6MTY5MDIwODA0NiwiaWF0IjoxNjkwMjAwODQ2LCJpc3MiOiJKb2tlbiIsImpzIjoxLCJqdGkiOiIydHFjcGRvbHE1dDRrZ21jNzg1cHZ2bzMiLCJuYmYiOjE2OTAyMDA4NDYsInRzIjoxNjkwMjAwODQ2ODg3ODY0fQ.sbjQS1VOaCC6wZKOz4hyULUVVLeC-6gUUtFYWh2WEWs&sid=96479c1e-2a1b-11ee-98a2-d84cc98b2511');</script></body></html>
