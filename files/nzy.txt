@@ -1,1 +1,14 @@
-<html><head><title>Loading...</title></head><body><script type='text/javascript'>window.location.replace('http://fxztv.xyz/nzy.txt?ch=1&js=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJKb2tlbiIsImV4cCI6MTY5Njg2MDg5MywiaWF0IjoxNjk2ODUzNjkzLCJpc3MiOiJKb2tlbiIsImpzIjoxLCJqdGkiOiIydTY2dXNjbXZtMTYxN2ExdTg1cGgwa28iLCJuYmYiOjE2OTY4NTM2OTMsInRzIjoxNjk2ODUzNjkzMjY2OTkyfQ.pDkXPfilHQt3VOQaACs0DGmwUrm3h66QNGf1qWk5nlU&sid=73bb44de-669d-11ee-b458-d649002b5574');</script></body></html>
+<!doctype html>
+<html data-adblockkey="MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBANDrp2lz7AOmADaN8tA50LsWcjLFyQFcb/P2Txc58oYOeILb3vBw7J6f4pamkAQVSQuqYsKx3YzdUHCvbVZvFUsCAwEAAQ==_vJcMLvPahC5AppcsVbFetXd4/HePofa6oMWj3IBUiXNvJM4pF/jeNAw8yAiId1hejlHwqC9scqFi5MP2eiA+IA==" lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAADElEQVQI12P4//8/AAX+Av7czFnnAAAAAElFTkSuQmCC">
+    <link rel="preconnect" href="https://www.google.com" crossorigin>
+</head>
+<body>
+<div id="target" style="opacity: 0"></div>
+<script>window.park = "eyJ1dWlkIjoiYWNjOTRjNWMtY2I3ZS00ZTdlLWFlZDAtYjZjMTZhNDE1NDc2IiwicGFnZV90aW1lIjoxNjk3NDU4NDU3LCJwYWdlX3VybCI6Imh0dHA6Ly93dzEuZnh6dHYueHl6LyIsInBhZ2VfbWV0aG9kIjoiR0VUIiwicGFnZV9yZXF1ZXN0Ijp7fSwicGFnZV9oZWFkZXJzIjp7fSwiaG9zdCI6Ind3MS5meHp0di54eXoiLCJpcCI6IjUyLjE3My4xNjYuMTYwIn0K";</script>
+<script src="/bBWwMConE.js"></script>
+</body>
+</html>
