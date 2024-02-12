@@ -1,14 +1,1 @@
-<!doctype html>
-<html data-adblockkey="MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBANDrp2lz7AOmADaN8tA50LsWcjLFyQFcb/P2Txc58oYOeILb3vBw7J6f4pamkAQVSQuqYsKx3YzdUHCvbVZvFUsCAwEAAQ==_vJcMLvPahC5AppcsVbFetXd4/HePofa6oMWj3IBUiXNvJM4pF/jeNAw8yAiId1hejlHwqC9scqFi5MP2eiA+IA==" lang="en" style="background: #2B2B2B;">
-<head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="icon" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAADElEQVQI12P4//8/AAX+Av7czFnnAAAAAElFTkSuQmCC">
-    <link rel="preconnect" href="https://www.google.com" crossorigin>
-</head>
-<body>
-<div id="target" style="opacity: 0"></div>
-<script>window.park = "eyJ1dWlkIjoiMTZlYmIwMDUtMTU3YS00ZTE0LTk4NTItZGUwZTNhMjRmYzZlIiwicGFnZV90aW1lIjoxNzA3MTM1NDkyLCJwYWdlX3VybCI6Imh0dHA6Ly93dzEuZnh6dHYueHl6LyIsInBhZ2VfbWV0aG9kIjoiR0VUIiwicGFnZV9yZXF1ZXN0Ijp7fSwicGFnZV9oZWFkZXJzIjp7fSwiaG9zdCI6Ind3MS5meHp0di54eXoiLCJpcCI6IjEzLjkwLjE3NC4xOTUifQo=";</script>
-<script src="/bscPqAPhT.js"></script>
-</body>
-</html>
+<html><head><title>Loading...</title></head><body><script type='text/javascript'>window.location.replace('http://fxztv.xyz/nzy.txt?ch=1&js=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJKb2tlbiIsImV4cCI6MTcwNzc0NzIyMSwiaWF0IjoxNzA3NzQwMDIxLCJpc3MiOiJKb2tlbiIsImpzIjoxLCJqdGkiOiIydXBocDAyYzhoMzEyNWhodGcxOXVzY2YiLCJuYmYiOjE3MDc3NDAwMjEsInRzIjoxNzA3NzQwMDIxMDY0NDQ0fQ._T-k29v-V1l7X6S9n4WyM1YwPRQ8scpkITc-r7mUjpE&sid=28bf3e27-c9a0-11ee-9c8a-3421ac09aa62');</script></body></html>
