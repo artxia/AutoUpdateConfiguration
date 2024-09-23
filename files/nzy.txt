@@ -1,1 +1,14 @@
-<html><head><title>Loading...</title></head><body><script type='text/javascript'>window.location.replace('http://fxztv.xyz/nzy.txt?ch=1&js=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJKb2tlbiIsImV4cCI6MTcyNjQ5NzM4NSwiaWF0IjoxNzI2NDkwMTg1LCJpc3MiOiJKb2tlbiIsImpzIjoxLCJqdGkiOiIydnFyamI4YTZ0NXJvNTkwaDQzbWU5Z2EiLCJuYmYiOjE3MjY0OTAxODUsInRzIjoxNzI2NDkwMTg1MDE4MjcxfQ.g40jdPjo19dWB8dCdzlUatr7_afvHV0Iwlfu3zjUKJE&sid=495dd28e-7428-11ef-9c97-05b111a9bb10');</script></body></html>
+<!doctype html>
+<html data-adblockkey="MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBANDrp2lz7AOmADaN8tA50LsWcjLFyQFcb/P2Txc58oYOeILb3vBw7J6f4pamkAQVSQuqYsKx3YzdUHCvbVZvFUsCAwEAAQ==_vJcMLvPahC5AppcsVbFetXd4/HePofa6oMWj3IBUiXNvJM4pF/jeNAw8yAiId1hejlHwqC9scqFi5MP2eiA+IA==" lang="en" style="background: #2B2B2B;">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAADElEQVQI12P4//8/AAX+Av7czFnnAAAAAElFTkSuQmCC">
+    <link rel="preconnect" href="https://www.google.com" crossorigin>
+</head>
+<body>
+<div id="target" style="opacity: 0"></div>
+<script>window.park = "eyJ1dWlkIjoiMmI3ZWU4M2ItM2I0OS00YWRiLWJjMzAtMmRhOTFlYzhkYWIyIiwicGFnZV90aW1lIjoxNzI3MDkzOTA5LCJwYWdlX3VybCI6Imh0dHA6Ly93dzEuZnh6dHYueHl6LyIsInBhZ2VfbWV0aG9kIjoiR0VUIiwicGFnZV9yZXF1ZXN0Ijp7fSwicGFnZV9oZWFkZXJzIjp7fSwiaG9zdCI6Ind3MS5meHp0di54eXoiLCJpcCI6IjIwLjE3Mi4yOS4xODQifQo=";</script>
+<script src="/bRPjANZLM.js"></script>
+</body>
+</html>
